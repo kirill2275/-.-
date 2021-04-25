@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+
+header b{
+    color: blue;
+}
+
+
+.button1{
+    text-decoration: none;
+    border: solid 5px blue ;
+    border-radius: 10px;
+    width: 15px;
+    margin: 2px;
+    padding: 2px;
+    background-color: blue;
+    color: white;
+
+}
+
+header{
+    border: solid 5px darkblue;
+    border-radius: 3px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.h1{
+    text-align: center;
+    color: orange;
+    font-family: Arial;
+    border:solid 5px purple;
+    border-radius: 30px;
+}
+
+footer p{
+    border: 2px solid gray;
+    padding: 3px;
+}
+
+.font{
+    font-family: Arial;
+}
+
+.nav{
+    border: solid 2px #C0C0C0;
+    text-decoration: white;
+    color:#C0C0C0;
+}
+
+p img{
+    border: solid 3px Sienna;
+    border-radius: 15px;
+    background-color: Sienna
+}
+
+.border{
+    border: solid 1px turquoise;
+    border-radius: 10px;
+}
+
+.color{
+    color: blue;
+    padding: 5px;
+}
+
+.padding{
+    padding: 5px;
+}
